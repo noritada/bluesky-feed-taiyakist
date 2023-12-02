@@ -1,1 +1,1 @@
-# Bluesky custom feed: Taiyakist
+# Bluesky feed: Taiyakist
