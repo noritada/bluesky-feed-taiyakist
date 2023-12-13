@@ -29,7 +29,8 @@ taiyakist
 > - たいやき
 > - たい焼
 
-- 鯛焼
+- "鯛焼"
+- "鯛焼き"
 - taiyaki
 
 # denyList
